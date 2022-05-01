@@ -62,7 +62,7 @@ a:hover {
     grid-template-columns: 1fr 4fr;
     grid-template-rows: auto;
     align-items: end;
-    margin-top: 5px;
+    margin-top: 1rem;
     margin-left: 20px;
 }
 
@@ -73,12 +73,11 @@ a:hover {
     grid-template-columns: 1fr 4fr;
     grid-template-rows: auto;
     align-items: end;
-    margin-top: 55px;
     margin-left: 20px;
 }
 
 .nav-grid-box {
-    margin-top: 20px;
+    margin-top: 2.5rem;
 }
 
 /* Header styling */
